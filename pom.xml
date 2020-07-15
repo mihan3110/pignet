@@ -8,10 +8,10 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>serving-web-content</artifactId>
+	<groupId>ru.medicine</groupId>
+	<artifactId>pignet</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>serving-web-content</name>
+	<name>pignet</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -45,6 +45,13 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-deploy-plugin -->
+		<dependency>
+			<groupId>org.apache.maven.plugins</groupId>
+			<artifactId>maven-deploy-plugin</artifactId>
+			<version>2.8.2</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
@@ -54,6 +61,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+
 	</build>
 
 </project>
