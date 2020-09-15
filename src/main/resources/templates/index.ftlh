@@ -2,58 +2,102 @@
 
 
 <@c.page>
+    <p align="center"><b class="h3 html-editor-italic">PigNet</b></p>
 
+    <div class="row">
+        <div class="col-sm">
 
-
-    <form class="container" action="/index" method="post">
-        <fieldset class="form-group">
-
-                <legend class="col-form-label col-sm-2 pt-0 h5">Выберите пол</legend>
-                <div class="col-sm-10">
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="sex" id="gridRadios1" value="0" checked>
-                        <label class="form-check-label" for="gridRadios1">
-                            муж.
-                        </label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="sex" id="gridRadios2" value="1">
-                        <label class="form-check-label" for="gridRadios2">
-                            жен.
-                        </label>
-                    </div>
-                </div>
-
-        </fieldset>
-        <div class="form-group ">
-            <label for="inputEmail3" class="col-sm-2 col-form-label h5">Возраст</label>
-            <div class="col-sm-5">
-                <input type="number" min="10" max="16" class="form-control" step="1" id="inputEmail3" placeholder="Введите количество полных лет (13)" name="age" required>
-            </div>
         </div>
-        <div class="form-group ">
-            <label for="inputEmail1" class="col-sm-2 col-form-label h5">Рост в сантиметрах</label>
-            <div class="col-sm-5">
-                <input type="number" min="20" max="200" step="any" class="form-control" id="inputEmail1" placeholder="Введите рост (143.4)" name="height" required>
-            </div>
-        </div>
-        <div class="form-group ">
-            <label for="inputEmail2" class="col-sm-2 col-form-label h5"  >Масса в кг</label>
-            <div class="col-sm-5">
-                <input type="number" min="5" max="200" step="any" class="form-control" id="inputEmail2" placeholder="Введите массу (36.4)" name="weight" required>
-            </div>
-        </div>
-        <div class="form-group ">
-            <label for="inputEmail4" class="col-sm-3 col-form-label h5">Обхват грудной клетки</label>
-            <div class="col-sm-5">
-                <input type="number" min="5" max="200" step="any" class="form-control" id="inputEmail4" placeholder="Введите обхват грудной клеткив в сантиметрах (73.1)" name="chest" required>
-            </div>
+        <div class="col-sm">
+            <br/>
+            <a class="text-size"> Наш сервис позволит с точностью определить тип телосложения Вашего ребёнка, узнать его особенности и получить рекомендации по сохранению здоровья.
+
+            </a>
+            <br><br>
+            <#--            <img class="img-fluid"-->
+            <#--                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">-->
+
         </div>
 
-        <div class="form-group ">
-            <div class="col-sm-5">
-                <button type="submit" class="btn btn-primary">Обработать</button>
-            </div>
+        <div class="col-sm">
+
         </div>
-    </form>
+
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm">
+
+        </div>
+
+
+        <div class="col-sm">
+            <br/>
+            <a class="text-size"> Определение типа телосложения осуществляется благодаря авторской методике, основанной на адаптации  проверенного временем индекса Пинье, под антропологические особенности современных детей.
+                <br>
+            </a>
+            <br>
+
+        </div>
+
+        <div class="col-sm">
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm">
+
+        </div>
+        <br>
+        <div class="col-sm corner">
+            <br/>
+            <p class="text-size" align="center"> Благодаря сервису стало возможно узнать точный тип телосложения детей в возрасте от восьми до тринадцати лет.
+
+            </p>
+            <br>
+
+        </div>
+
+        <div class="col-sm">
+
+        </div>
+
+    </div>
+    <br>
+    <div class="row">
+        <div class="col-sm">
+
+        </div>
+
+
+        <div class="col-sm">
+            <br/>
+            <a class="text-size"> Для получения результата необходимо измерить рост, вес и объём грудной клетки ребёнка, после чего, ввести получившиеся показатели в поля на нашем сайте. После обработки данных Вы получите описание телосложения ребёнка, а также  советы по сохранению его здоровья.
+
+            </a>
+            <br><br>
+
+        </div>
+
+        <div class="col-sm">
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm">
+
+        </div>
+        <div>
+        <form class="container" action="/main" method="get">
+        <button type="submit" class="btn btn-primary btn-lg">Узнать тип телосложения</button>
+        </form>
+        </div>
+        <div class="col-sm">
+
+        </div>
+
+    </div>
+
 </@c.page>

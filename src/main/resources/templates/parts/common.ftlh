@@ -11,6 +11,14 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
               integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <style>
+            .corner {
+                background: #edf4fb; /* Цвет фона */
+                border: 1px solid black; /* Параметры рамки */
+                padding: 15px; /* Поля вокруг текста */
+                margin-bottom: 10px; /* Отступ снизу */
+                border-radius: 50px 15px;
+                font-style: italic;
+            }
             body {
                 background: linear-gradient(90deg, #b9deed 20%, #efefef 35%, #efefef 65%, #b9deed 80%,#b9deed 100%);
             }

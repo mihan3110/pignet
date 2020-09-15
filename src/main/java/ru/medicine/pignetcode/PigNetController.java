@@ -38,16 +38,21 @@ public class PigNetController {
 
 
 
+    @GetMapping("/main")
+    public String mainPage() {
+        System.out.println(111);
+        return "main";
+    }
 
 
 
     @GetMapping("/index")
-	public String mainPage() {
-
+	public String indexPage() {
+        System.out.println(222);
 		return "redirect:/";
 	}
 
-	@PostMapping("/index")
+	@PostMapping("/main")
 	public String resol(@RequestParam(name="sex") Integer sex,
 						@RequestParam(name="height") double height,
 						@RequestParam(name="weight") double weight,
