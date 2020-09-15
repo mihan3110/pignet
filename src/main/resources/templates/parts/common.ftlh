@@ -3,7 +3,7 @@
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>PigNetg</title>
+        <title>PignetDetailed</title>
         <link rel="stylesheet" href="/static/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -12,7 +12,7 @@
               integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <style>
             .corner {
-                background: #edf4fb; /* Цвет фона */
+                background: #faee82; /* Цвет фона */
                 border: 1px solid black; /* Параметры рамки */
                 padding: 15px; /* Поля вокруг текста */
                 margin-bottom: 10px; /* Отступ снизу */
@@ -20,7 +20,7 @@
                 font-style: italic;
             }
             body {
-                background: linear-gradient(90deg, #b9deed 20%, #efefef 35%, #efefef 65%, #b9deed 80%,#b9deed 100%);
+                background: linear-gradient(90deg, #b9deed 20%, #FFFFFF 35%, #FFFFFF 65%, #b9deed 80%,#b9deed 100%);
             }
             nav {
                 background: linear-gradient(90deg, #7ebfd9, #a9dff5);

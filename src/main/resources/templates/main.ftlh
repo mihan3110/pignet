@@ -3,8 +3,6 @@
 
 <@c.page>
 
-
-
     <form class="container" action="/main" method="post">
         <fieldset class="form-group">
 

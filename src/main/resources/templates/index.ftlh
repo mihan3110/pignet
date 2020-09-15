@@ -2,7 +2,7 @@
 
 
 <@c.page>
-    <p align="center"><b class="h3 html-editor-italic">PigNet</b></p>
+    <p align="center"><b class="h3 html-editor-italic">PignetDetailed</b></p>
 
     <div class="row">
         <div class="col-sm">
