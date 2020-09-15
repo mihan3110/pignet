@@ -3,7 +3,7 @@
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>PigNet</title>
+        <title>PigNetg</title>
         <link rel="stylesheet" href="/static/style.css">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -12,7 +12,7 @@
               integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <style>
             body {
-                background: linear-gradient(90deg, #b9deed, #efefef);
+                background: linear-gradient(90deg, #b9deed 20%, #efefef 35%, #efefef 65%, #b9deed 80%,#b9deed 100%);
             }
             nav {
                 background: linear-gradient(90deg, #7ebfd9, #a9dff5);
@@ -20,6 +20,11 @@
                 border-top-right-radius:20px;
                 border-bottom-left-radius:20px;
             }
+
+            .text-size{
+                font-size: 25px;
+            }
+
         </style>
     </head>
     <body>
