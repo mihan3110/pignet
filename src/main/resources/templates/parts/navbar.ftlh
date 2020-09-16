@@ -6,12 +6,16 @@
       integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 <style>
 
-    .text-test
-        font-family: "Agency FB";
+    .text-test{
+        vertical-align: central;
+        color: #FFFFFF;
+    font-family: "Agency FB";
+    font-size: 50px;
+
     }
 
 </style>
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg bg-light text-test">
 <#--    <a class="navbar-brand" href="/">PigNet</a>-->
 <#--    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"-->
 <#--            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">-->
@@ -24,7 +28,22 @@
 <#--            </li>-->
 <#--        </ul>-->
 <#--    </div>-->
-    <a class="text-test navbar-brand" href="/">PignetDetailed</a>
 
+
+
+        <div class="col-sm">
+            <img class="figure"
+                 src="http://i.piccy.info/i9/6591159cd7789a8c63933dbe98f66043/1600284231/10200/1396103/22.png">
+        </div>
+
+
+        <div align="right">
+            <a class="text-test navbar-brand" href="/">PignetDetailed</a>
+        </div>
+
+
+    <div class="col-sm">
+
+    </div>
 
 </nav>

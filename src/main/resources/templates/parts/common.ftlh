@@ -11,6 +11,13 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
               integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <style>
+
+            .figure {
+                width: 15%; /* Ширина */
+                float: left; /* Выстраиваем элементы по горизонтали */
+                margin: 0 0 0 3.5%; /* Отступ слева */
+            }
+
             .corner {
                 background: #faee82; /* Цвет фона */
                 border: 1px solid black; /* Параметры рамки */
@@ -23,10 +30,11 @@
                 background: linear-gradient(90deg, #b9deed 20%, #FFFFFF 35%, #FFFFFF 65%, #b9deed 80%,#b9deed 100%);
             }
             nav {
-                background: linear-gradient(90deg, #7ebfd9, #a9dff5);
+                background: linear-gradient(90deg, #2e3e79, #2e3e79);
                 border-top-left-radius: 20px;
                 border-top-right-radius:20px;
                 border-bottom-left-radius:20px;
+
             }
 
             .text-size{

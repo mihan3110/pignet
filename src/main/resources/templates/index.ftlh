@@ -2,23 +2,31 @@
 
 
 <@c.page>
-    <p align="center"><b class="h3 html-editor-italic">PignetDetailed</b></p>
 
     <div class="row">
         <div class="col-sm">
 
         </div>
         <div class="col-sm">
-            <br/>
-            <a class="text-size"> Наш сервис позволит с точностью определить тип телосложения Вашего ребёнка, узнать его особенности и получить рекомендации по сохранению здоровья.
-
-            </a>
-            <br><br>
-            <#--            <img class="img-fluid"-->
-            <#--                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">-->
 
         </div>
 
+        <div class="col-sm">
+            <br/>
+            <a class="text-size coltext"> Наш сервис позволит с точностью определить тип телосложения Вашего ребёнка, узнать его особенности и получить рекомендации по сохранению здоровья.
+
+            </a>
+            <br><br>
+
+
+        </div>
+        <div class="col-sm">
+                        <img class="img-fluid"
+                             src="http://i.piccy.info/i9/f0154beaa1f144f9339b2606d04b516a/1600280900/199571/1396103/3010821.jpg">
+        </div>
+        <div class="col-sm">
+
+        </div>
         <div class="col-sm">
 
         </div>

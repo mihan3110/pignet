@@ -17,7 +17,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/7b53c65d16c43260df11ed9a0fe746a4/1600285567/40097/1396103/19.jpg">
 
         </div>
 
@@ -43,7 +43,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/f0154beaa1f144f9339b2606d04b516a/1600280900/199571/1396103/3010821.jpg">
         </div>
 
         <div class="col-sm">
@@ -66,7 +66,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/c87e6c34f661fdc4e83c382113d953c5/1600285872/62511/1396103/116785.jpg">
         </div>
 
         <div class="col-sm">
@@ -90,7 +90,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/9d67ed2336e56b372893ed4925156fec/1600285668/66991/1396103/20.jpg">
         </div>
 
         <div class="col-sm">
@@ -112,7 +112,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/d9036ecb0aed0cb0804ca92e7623de35/1600285689/56833/1396103/1.jpg">
         </div>
 
         <div class="col-sm">
@@ -138,7 +138,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/077a35e2ed01375e8dd80a83d9bc68a5/1600285743/51369/1396103/658657.jpg">
         </div>
 
         <div class="col-sm">
@@ -159,7 +159,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/63bcdbd33b0eaf2339c1808ebefbef89/1600285764/29494/1396103/9.jpg">
         </div>
 
         <div class="col-sm">
@@ -184,7 +184,7 @@
             </a>
             <br><br>
             <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+                 src="http://i.piccy.info/i9/c87e6c34f661fdc4e83c382113d953c5/1600285872/62511/1396103/116785.jpg">
         </div>
 
         <div class="col-sm">
@@ -207,9 +207,7 @@
                 гипертоническая болезнь, а также повышается риск инфаркта миокарда, атеросклироза, сахарного диабета.
 
             </a>
-            <br><br>
-            <img class="img-fluid"
-                 src="http://i.piccy.info/i9/193015ef1604f55799502e67e2d7922c/1599993937/98825/1396103/345972_800.jpg">
+
         </div>
 
         <div class="col-sm">
