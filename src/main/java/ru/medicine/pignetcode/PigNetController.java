@@ -42,7 +42,6 @@ public class PigNetController {
 
     @GetMapping("/main")
     public String mainPage() {
-        System.out.println(111);
         return "main";
     }
 
@@ -50,7 +49,6 @@ public class PigNetController {
 
     @GetMapping("/index")
 	public String indexPage() {
-        System.out.println(222);
 		return "redirect:/";
 	}
 
